@@ -2,6 +2,9 @@
 
 ### This is the portfolio website for Thinesh Kumar, Software Engineer.
 
+### Live links coming soon!
+
+
 <!--
 **thinesh-kumar/thinesh-kumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
